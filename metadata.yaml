@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1074
     wikipedia: http://en.wikipedia.org/wiki/May_Agnes_Fleming
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43489#The-Gypsy-Queen-s-Vow
 gutenberg_issued: '2013-08-16'
 gutenberg_type: Text
 identifiers:
