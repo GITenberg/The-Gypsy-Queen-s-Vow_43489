@@ -1,0 +1,31 @@
+_repo: The-Gypsy-Queen-s-Vow_43489
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43489-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Fleming, May Agnes
+    aliases:
+    - Carleton, May
+    - Fleming, May A. (May Agnes)
+    - Earlie, M. A. (May Agnes)
+    birthdate: 1840
+    deathdate: 1880
+    gutenberg_agent_id: '1074'
+    url: http://www.gutenberg.org/2009/agents/1074
+    wikipedia: http://en.wikipedia.org/wiki/May_Agnes_Fleming
+description: ''
+gutenberg_issued: '2013-08-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43489'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Fiction'
+title: The Gypsy Queen's Vow
+url: http://www.gutenberg.org/ebooks/43489
